@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func perbandingan() {
 	name1 := "Andy"
 	name2 := "Andy"
 

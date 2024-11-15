@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func operasi_boolean() {
 	nilaiAkhir := 90
 	absensi := 80
 

@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func tes2() {
 	type NoKtp string
 	var ktpAndy NoKtp = "11111111"
 	fmt.Println(ktpAndy)

@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func matematika() {
 	var a = 10
 	var b = 10
 	var d = 5

@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func string() {
+func tes() {
 	name := "Andy Wijaya"
 	fmt.Println(name)
 	fmt.Println("Panjang karaketernya = ", len(name))
